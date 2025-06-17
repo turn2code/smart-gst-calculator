@@ -1,0 +1,4 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart GST Calculator 1.0.0\n"
+"POT-Creation-Date: 2024-03-15\n"
